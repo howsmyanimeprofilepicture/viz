@@ -10,7 +10,7 @@
 git clone https://github.com/howsmyanimeprofilepicture/viz
 cd viz
 pip install -r req.txt
-python svm-viz.py
+python metropolis-hastings.py
 ```
 
 https://www.youtube.com/watch?v=Q30CGDpXPsI
@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=Q30CGDpXPsI
 git clone https://github.com/howsmyanimeprofilepicture/viz
 cd viz
 pip install -r req.txt
-python mh-algo.py
+python svm-viz.py
 ```
 https://www.youtube.com/watch?v=s91ZpxhqHZs
 
