@@ -1,13 +1,10 @@
+# README
+> python version is `3.9.7`.
 
 
+## Metropolis-Hastings Visualization
 
-
-- python version is `3.9.7`.
-- This works in Windows 11 but doesn't in WSL(Ubuntu). So I should find the reason why so.
-
-
-
-https://www.youtube.com/watch?v=s91ZpxhqHZs
+![mh](mh-algo.webp)
 
 ```bash
 git clone https://github.com/howsmyanimeprofilepicture/viz
@@ -16,9 +13,23 @@ pip install -r req.txt
 python svm-viz.py
 ```
 
+https://www.youtube.com/watch?v=Q30CGDpXPsI
 
 
+## Hard Margin SVM 
 
+![svm](hard-svm.webp)
+
+```bash
+git clone https://github.com/howsmyanimeprofilepicture/viz
+cd viz
+pip install -r req.txt
+python svm-viz.py
+```
+https://www.youtube.com/watch?v=s91ZpxhqHZs
+
+
+## _
 
 https://www.youtube.com/embed/oo1o2w9Dw80
 
