@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=Q30CGDpXPsI
 git clone https://github.com/howsmyanimeprofilepicture/viz
 cd viz
 pip install -r req.txt
-python svm-viz.py
+python mh-algo.py
 ```
 https://www.youtube.com/watch?v=s91ZpxhqHZs
 
